@@ -18,11 +18,11 @@ role: Student of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: SCUT
+  - name: South China of Technology
     url: https://www.scut.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include AI,economy
+bio: 
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -51,6 +51,6 @@ highlight_name: true
 website: ""
 ---
 
-Yujinghe is a student of artificial intelligence at SCUT. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+我是华南理工大学人工智能专业的在读学生。
+我的爱好广泛，喜欢音乐、摄影、篮球、电影、文学、户外运动...
+欢迎来到我的个人主页，很高兴认识你！
