@@ -9,9 +9,6 @@ name_pronunciation:
 first_name: Jinghe
 last_name: Yu
 
-# Status emoji
-status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,10 +19,10 @@ role: Student of Artificial Intelligence
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: SCUT
-    url: https://www.stanford.edu/
+    url: https://www.scut.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include AI,economy
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
